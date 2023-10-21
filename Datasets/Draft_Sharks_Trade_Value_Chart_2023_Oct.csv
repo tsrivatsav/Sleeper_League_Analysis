@@ -1,0 +1,342 @@
+Name,Value,Pick,Position
+1.01,81,Yes,N/A
+1.02,65,Yes,N/A
+1.03,63,Yes,N/A
+1.04,59,Yes,N/A
+1.05,53,Yes,N/A
+1.06,50,Yes,N/A
+1.07,46,Yes,N/A
+1.08,45,Yes,N/A
+1.09,44,Yes,N/A
+1.1,43,Yes,N/A
+1.11,43,Yes,N/A
+1.12,41,Yes,N/A
+2.01,41,Yes,N/A
+2.02,40,Yes,N/A
+2.03,39,Yes,N/A
+2.04,39,Yes,N/A
+2.05,39,Yes,N/A
+2.06,37,Yes,N/A
+2.07,37,Yes,N/A
+2.08,37,Yes,N/A
+2.09,36,Yes,N/A
+2.1,35,Yes,N/A
+2.11,35,Yes,N/A
+2.12,30,Yes,N/A
+3.01,29,Yes,N/A
+3.02,29,Yes,N/A
+3.03,28,Yes,N/A
+3.04,24,Yes,N/A
+3.05,22,Yes,N/A
+3.06,22,Yes,N/A
+3.07,21,Yes,N/A
+3.08,21,Yes,N/A
+3.09,21,Yes,N/A
+3.1,20,Yes,N/A
+3.11,16,Yes,N/A
+3.12,16,Yes,N/A
+Josh Allen,100,No,QB
+Jalen Hurts,100,No,QB
+Patrick Mahomes,94,No,QB
+Justin Herbert,90,No,QB
+Trevor Lawrence,88,No,QB
+Tua Tagovailoa,80,No,QB
+Joe Burrow,80,No,QB
+Lamar Jackson,76,No,QB
+Justin Fields,70,No,QB
+Kyler Murray,66,No,QB
+Anthony Richardson,65,No,QB
+C.J. Stroud,63,No,QB
+Brock Purdy,53,No,QB
+Bryce Young,53,No,QB
+Dak Prescott,52,No,QB
+Deshaun Watson,52,No,QB
+Jared Goff,50,No,QB
+Jordan Love,44,No,QB
+Geno Smith,44,No,QB
+Daniel Jones,43,No,QB
+Kenny Pickett,40,No,QB
+Kirk Cousins,40,No,QB
+Derek Carr,39,No,QB
+Sam Howell,38,No,QB
+Russell Wilson,37,No,QB
+Matthew Stafford,36,No,QB
+Mac Jones,35,No,QB
+Baker Mayfield,35,No,QB
+Desmond Ridder,32,No,QB
+Jimmy Garoppolo,30,No,QB
+Ryan Tannehill,28,No,QB
+Joshua Dobbs,24,No,QB
+Will Levis,21,No,QB
+Zach Wilson,16,No,QB
+Sam Darnold,9,No,QB
+Hendon Hooker,8,No,QB
+Trey Lance,7,No,QB
+Malik Cunningham,5,No,QB
+Aidan O'Connell,5,No,QB
+Tyson Bagent,4,No,QB
+Tyler Huntley,3,No,QB
+Gardner Minshew,3,No,QB
+Kyle Trask,2,No,QB
+Malik Willis,2,No,QB
+Jarrett Stidham,1,No,QB
+Bijan Robinson,81,No,RB
+Breece Hall,75,No,RB
+Jonathan Taylor,64,No,RB
+Christian McCaffrey,61,No,RB
+Jahmyr Gibbs,59,No,RB
+Travis Etienne,59,No,RB
+Josh Jacobs,58,No,RB
+Kenneth Walker III,58,No,RB
+Austin Ekeler,57,No,RB
+Tony Pollard,56,No,RB
+Saquon Barkley,53,No,RB
+Javonte Williams,43,No,RB
+De'Von Achane,43,No,RB
+James Cook,41,No,RB
+Tyjae Spears,40,No,RB
+Derrick Henry,40,No,RB
+D'Andre Swift,40,No,RB
+David Montgomery,39,No,RB
+Joe Mixon,39,No,RB
+Rhamondre Stevenson,39,No,RB
+Isiah Pacheco,38,No,RB
+Brian Robinson Jr.,38,No,RB
+Dameon Pierce,38,No,RB
+Najee Harris,37,No,RB
+Alvin Kamara,37,No,RB
+Zach Charbonnet,37,No,RB
+Roschon Johnson,37,No,RB
+Kendre Miller,36,No,RB
+Aaron Jones,36,No,RB
+Miles Sanders,35,No,RB
+Alexander Mattison,35,No,RB
+Kyren Williams,34,No,RB
+Rachaad White,32,No,RB
+Jerome Ford,31,No,RB
+James Conner,30,No,RB
+Jaylen Warren,29,No,RB
+Tyler Allgeier,29,No,RB
+Cam Akers,28,No,RB
+Chuba Hubbard,26,No,RB
+Kenneth Gainwell,25,No,RB
+Khalil Herbert,25,No,RB
+Tank Bigsby,24,No,RB
+Zack Moss,23,No,RB
+Justice Hill,23,No,RB
+J.K. Dobbins,22,No,RB
+Jaleel McLaughlin,21,No,RB
+Devin Singletary,21,No,RB
+A.J. Dillon,21,No,RB
+Raheem Mostert,21,No,RB
+Jeff Wilson Jr.,20,No,RB
+Gus Edwards,20,No,RB
+Jamaal Williams,18,No,RB
+Dalvin Cook,18,No,RB
+Nick Chubb,17,No,RB
+Clyde Edwards-Helaire,17,No,RB
+Elijah Mitchell,17,No,RB
+Sean Tucker,16,No,RB
+Antonio Gibson,16,No,RB
+Kareem Hunt,15,No,RB
+Samaje Perine,15,No,RB
+Michael Carter,15,No,RB
+Jordan Mason,14,No,RB
+Chris Rodriguez,14,No,RB
+Ezekiel Elliott,14,No,RB
+Chase Brown,14,No,RB
+Joshua Kelley,13,No,RB
+Zach Evans,13,No,RB
+Keaton Mitchell,12,No,RB
+Salvon Ahmed,12,No,RB
+Evan Hull,12,No,RB
+Eric Gray,11,No,RB
+Zamir White,11,No,RB
+Craig Reynolds,11,No,RB
+Rico Dowdle,11,No,RB
+Israel Abanikanda,11,No,RB
+Pierre Strong Jr.,10,No,RB
+Emari Demercado,10,No,RB
+Isaiah Spiller,10,No,RB
+Keaontay Ingram,10,No,RB
+Deuce Vaughn,10,No,RB
+Leonard Fournette,9,No,RB
+Ronnie Rivers,9,No,RB
+Jerick McKinnon,9,No,RB
+D'Onta Foreman,8,No,RB
+Damien Harris,8,No,RB
+Rashaad Penny,7,No,RB
+Trayveon Williams,7,No,RB
+Ty Chandler,7,No,RB
+Chris Evans,6,No,RB
+Patrick Taylor,6,No,RB
+Tyrion Davis-Price,6,No,RB
+Darrynton Evans,5,No,RB
+Melvin Gordon,5,No,RB
+Kenyan Drake,5,No,RB
+Trey Sermon,5,No,RB
+Kenny McIntosh,5,No,RB
+Latavius Murray,4,No,RB
+Chase Edmonds,3,No,RB
+Cordarrelle Patterson,3,No,RB
+Kene Nwangwu,2,No,RB
+Ke'Shawn Vaughn,2,No,RB
+Damien Williams,2,No,RB
+Matt Breida,2,No,RB
+Ameer Abdullah,2,No,RB
+JaMycal Hasty,1,No,RB
+DeeJay Dallas,1,No,RB
+Boston Scott,1,No,RB
+Raheem Blackshear,1,No,RB
+D'Ernest Johnson,1,No,RB
+Justin Jefferson,88,No,WR
+Ja'Marr Chase,84,No,WR
+CeeDee Lamb,82,No,WR
+Amon-Ra St. Brown,69,No,WR
+A.J. Brown,65,No,WR
+Garrett Wilson,65,No,WR
+Chris Olave,64,No,WR
+Tyreek Hill,63,No,WR
+Jaylen Waddle,61,No,WR
+DeVonta Smith,59,No,WR
+Stefon Diggs,55,No,WR
+D.K. Metcalf,52,No,WR
+Tee Higgins,51,No,WR
+Davante Adams,51,No,WR
+Drake London,50,No,WR
+Cooper Kupp,50,No,WR
+Puka Nacua,50,No,WR
+Christian Watson,47,No,WR
+Zay Flowers,46,No,WR
+Michael Pittman Jr.,46,No,WR
+Brandon Aiyuk,45,No,WR
+D.J. Moore,45,No,WR
+Jordan Addison,44,No,WR
+Deebo Samuel,44,No,WR
+Jaxon Smith-Njigba,43,No,WR
+Christian Kirk,43,No,WR
+Chris Godwin,43,No,WR
+Calvin Ridley,42,No,WR
+Nico Collins,42,No,WR
+Jerry Jeudy,42,No,WR
+Quentin Johnston,41,No,WR
+George Pickens,41,No,WR
+Marquise Brown,40,No,WR
+Keenan Allen,39,No,WR
+Terry McLaurin,39,No,WR
+Rashee Rice,39,No,WR
+Jonathan Mingo,39,No,WR
+Amari Cooper,38,No,WR
+Diontae Johnson,38,No,WR
+Mike Evans,37,No,WR
+Jameson Williams,37,No,WR
+Jahan Dotson,37,No,WR
+Nathaniel Tank Dell,37,No,WR
+Josh Downs,35,No,WR
+Marvin Mims Jr.,35,No,WR
+Gabriel Davis,34,No,WR
+DeAndre Hopkins,34,No,WR
+Jakobi Meyers,34,No,WR
+Treylon Burks,33,No,WR
+Tyler Lockett,32,No,WR
+Elijah Moore,32,No,WR
+Courtland Sutton,32,No,WR
+Romeo Doubs,31,No,WR
+Michael Wilson,30,No,WR
+Wan'Dale Robinson,30,No,WR
+Jalin Hyatt,29,No,WR
+Rashid Shaheed,29,No,WR
+Jayden Reed,29,No,WR
+Tutu Atwell,27,No,WR
+Mike Williams,27,No,WR
+Skyy Moore,24,No,WR
+Rashod Bateman,23,No,WR
+Kadarius Toney,23,No,WR
+K.J. Osborn,23,No,WR
+Rondale Moore,23,No,WR
+Zay Jones,22,No,WR
+Curtis Samuel,22,No,WR
+Tyler Boyd,22,No,WR
+Michael Thomas,21,No,WR
+Josh Palmer,21,No,WR
+Cedric Tillman,21,No,WR
+Alec Pierce,21,No,WR
+Kendrick Bourne,19,No,WR
+Brandin Cooks,19,No,WR
+Josh Reynolds,19,No,WR
+Michael Gallup,17,No,WR
+John Metchie,17,No,WR
+Adam Thielen,17,No,WR
+Demario Douglas,16,No,WR
+Darnell Mooney,15,No,WR
+Terrace Marshall,13,No,WR
+Darius Slayton,10,No,WR
+Donovan Peoples-Jones,9,No,WR
+Van Jefferson,9,No,WR
+Trey Palmer,9,No,WR
+D.J. Chark Jr.,8,No,WR
+Justyn Ross,8,No,WR
+2024 Early Rd 1,7,No,WR
+DeVante Parker,7,No,WR
+Marquez Valdes-Scantling,7,No,WR
+Allen Lazard,6,No,WR
+Andrei Iosivas,6,No,WR
+Tyler Scott,6,No,WR
+Tyquan Thornton,6,No,WR
+Laviska Shenault,5,No,WR
+Nick Westbrook-Ikhine,5,No,WR
+Robert Woods,4,No,WR
+Odell Beckham Jr.,4,No,WR
+Hunter Renfrow,4,No,WR
+JuJu Smith-Schuster,3,No,WR
+Khalil Shakir,3,No,WR
+Xavier Hutchinson,3,No,WR
+Calvin Austin,3,No,WR
+Charlie Jones,2,No,WR
+A.T. Perry,2,No,WR
+Braxton Berrios,2,No,WR
+Parris Campbell,1,No,WR
+Mark Andrews,57,No,TE
+T.J. Hockenson,54,No,TE
+Travis Kelce,50,No,TE
+Kyle Pitts,45,No,TE
+Sam LaPorta,45,No,TE
+George Kittle,41,No,TE
+Dalton Kincaid,41,No,TE
+Dallas Goedert,40,No,TE
+Luke Musgrave,39,No,TE
+Pat Freiermuth,38,No,TE
+David Njoku,36,No,TE
+Evan Engram,35,No,TE
+Michael Mayer,28,No,TE
+Darren Waller,28,No,TE
+Cole Kmet,26,No,TE
+Chigoziem Okonkwo,26,No,TE
+Jake Ferguson,26,No,TE
+Dalton Schultz,25,No,TE
+Trey McBride,23,No,TE
+Greg Dulcich,22,No,TE
+Tyler Higbee,21,No,TE
+Dawson Knox,19,No,TE
+Cade Otton,19,No,TE
+Hunter Henry,18,No,TE
+Gerald Everett,18,No,TE
+Jonnu Smith,16,No,TE
+Logan Thomas,16,No,TE
+Tyler Conklin,15,No,TE
+Noah Fant,15,No,TE
+Mike Gesicki,14,No,TE
+Isaiah Likely,14,No,TE
+Kylen Granson,13,No,TE
+Hayden Hurst,13,No,TE
+Adam Trautman,12,No,TE
+Irv Smith,11,No,TE
+Zach Ertz,10,No,TE
+Durham Smythe,10,No,TE
+Taysom Hill,8,No,TE
+Jelani Woods,7,No,TE
+Juwan Johnson,5,No,TE
+Luke Schoonmaker,5,No,TE
+Darnell Washington,5,No,TE
+Noah Gray,2,No,TE
+Foster Moreau,1,No,TE
